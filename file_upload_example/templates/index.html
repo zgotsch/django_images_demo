@@ -1,0 +1,8 @@
+<ul>
+  {% for image in images %}
+  <li>
+    <img style="display: block; height: 200px;" src="{{image.image}}" />
+    Uploaded at {{image.upload_time}}
+  </li>
+  {% endfor %}
+</ul>

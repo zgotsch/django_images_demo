@@ -1,0 +1,6 @@
+{
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/Users/zgotsch/.local/share/virtualenvs/django_file_upload_example-xNKK3_lG/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
